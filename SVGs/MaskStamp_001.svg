@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="MaskStamp_001.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   id="svg6738"
+   version="1.1"
+   viewBox="0 0 31.401156 16.371823"
+   height="16.371824mm"
+   width="31.401155mm">
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-13"
+     inkscape:window-x="-13"
+     inkscape:window-height="1315"
+     inkscape:window-width="2560"
+     showgrid="true"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="39.826029"
+     inkscape:cx="69.116742"
+     inkscape:zoom="15.839192"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       originy="0.91958815"
+       originx="0.89817333"
+       id="grid7359"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6732">
+    <filter
+       id="filter7335"
+       inkscape:label="Invert"
+       style="color-interpolation-filters:sRGB">
+      <feColorMatrix
+         id="feColorMatrix7333"
+         result="fbSourceGraphic"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 " />
+      <feColorMatrix
+         id="feColorMatrix7345"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="color2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 "
+         id="feColorMatrix7347" />
+    </filter>
+    <filter
+       id="filter7339"
+       inkscape:label="Invert"
+       style="color-interpolation-filters:sRGB">
+      <feColorMatrix
+         id="feColorMatrix7337"
+         result="fbSourceGraphic"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 " />
+      <feColorMatrix
+         id="feColorMatrix7349"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="color2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 "
+         id="feColorMatrix7351" />
+    </filter>
+    <filter
+       id="filter7343"
+       inkscape:label="Invert"
+       style="color-interpolation-filters:sRGB">
+      <feColorMatrix
+         id="feColorMatrix7341"
+         result="fbSourceGraphic"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 " />
+      <feColorMatrix
+         id="feColorMatrix7353"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="color2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 "
+         id="feColorMatrix7355" />
+    </filter>
+    <filter
+       id="filter7363"
+       inkscape:label="Invert"
+       style="color-interpolation-filters:sRGB;">
+      <feColorMatrix
+         id="feColorMatrix7361"
+         result="fbSourceGraphic"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0 " />
+      <feColorMatrix
+         id="feColorMatrix7365"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feColorMatrix
+         in="fbSourceGraphic"
+         result="color2"
+         values="0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 -0.21 -0.72 -0.07 2 0 "
+         id="feColorMatrix7367" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata6735">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-56.737214,-79.68417)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="scale(-1,1)"
+       id="text7285"
+       y="87.081734"
+       x="-72.739754"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.29002762px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5241757;filter:url(#filter7335)"
+       xml:space="preserve"><tspan
+         y="87.081734"
+         x="-72.739754"
+         id="tspan7321"
+         sodipodi:role="line">DURHAM</tspan><tspan
+         y="94.944267"
+         x="-72.739754"
+         id="tspan7323"
+         sodipodi:role="line" /></text>
+    <text
+       transform="scale(-1,1)"
+       id="text7285-1"
+       y="92.913773"
+       x="-72.745895"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.29002762px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5241757;filter:url(#filter7339)"
+       xml:space="preserve"><tspan
+         y="92.913773"
+         x="-72.745895"
+         id="tspan7325"
+         sodipodi:role="line">HK MASK</tspan><tspan
+         y="100.77631"
+         x="-72.745895"
+         id="tspan7327"
+         sodipodi:role="line" /></text>
+    <rect
+       transform="scale(-1,1)"
+       y="81.105354"
+       x="-86.719284"
+       height="13.502182"
+       width="28.555025"
+       id="rect7329"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.05773997;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7343)" />
+    <rect
+       y="80.13015"
+       x="57.183193"
+       height="15.479865"
+       width="30.509197"
+       id="rect7357"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.89195907;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7363)" />
+  </g>
+</svg>
