@@ -8,7 +8,7 @@ Cut the pattern, then stitch the lower half of the mask to itself to form the co
 
 If you want to see a video of yours truly making a mask in 5 minutes, click [here](https://photos.app.goo.gl/8cJJktJx2wJK5Sk76)
 
-Any mask is better than no mask, as you may be asymptomatic and capable of infecting others. The mask also signals to others that you care about their safety and well-being. It may keep you from touching your face. It also shows people that you probably had an extra t-shirt lying around the house. Keep cleaning out that closet - Plenty of quarrantine time left.
+Any mask is better than no mask, as you may be asymptomatic and capable of infecting others. The mask also signals to others that you care about their safety and well-being. It may keep you from touching your face. It also shows people that you probably had an extra t-shirt lying around the house. Keep cleaning out that closet - Plenty of quarantine time left.
 
 This design is based on the HK Mask, which can be seen at https://diymask.site/ , https://www.facebook.com/masksbyhongkongers/ and elsewhere. Hong Kong knows how to wear a mask. Their mask involves a bunch of sewing and additional parts, like elastic ear-straps. This mask is a bit more simple from a sewing standpoint, but requires you to tie a bow knot behind your head. 
 
