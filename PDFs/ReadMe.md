@@ -5,6 +5,6 @@ The mask pattern is too big to fit on on a sheet of printer paper, unless you ar
 Print the 4 PDFs (one for each corner), and then tape them all together. Then cut out the mask pattern. 
 
 
-![Step 1](/Step1_TapeUpperLeftToLowerLeft.jpg)
+![Step 1](Step1_TapeUpperLeftToLowerLeft.jpg)
 
 The straps are simply 1/2" by 12" strips. You can use ribbon, t-shirt material, or whatever you have handy. 
