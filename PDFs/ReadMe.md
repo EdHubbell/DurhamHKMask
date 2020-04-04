@@ -1,6 +1,6 @@
 Instructions here for printing 4 pages of 8.5 x 11 paper to make a template.
 
-The mask pattern is too big to fit on on a sheet of printer paper, unless you are heading out to Kinkos. Not such a good idea, as their pandemic hours may have changed.
+The mask pattern is too big to fit on on a sheet of printer paper, unless you are heading out to Kinkos. Not such a good idea, as their pandemic hours may have changed. Plus, who knows if their plotter is even working. 
 
 Print the 4 PDFs (one for each corner - Mask_250_LowerLeft, Mask_250_LowerRight, Mask_250_UpperLeft, and Mask_250_UpperRight), and then tape them all together. Then cut out the mask pattern. 
 
