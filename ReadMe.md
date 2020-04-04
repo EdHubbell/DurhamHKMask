@@ -9,7 +9,7 @@ Cut the pattern, then stitch the lower half of the mask to itself to form the co
 
 Any mask is better than no mask, as you may be asymptomatic and capable of infecting others. The mask also signals to others that you care about their safety and well-being. It may keep you from touching your face. It also shows people that you probably had an extra t-shirt lying around the house. Keep cleaning out that closet - Plenty of quarrantine time left.
 
-This design is based on the HK Mask, which can be seen at https://www.facebook.com/masksbyhongkongers/ and elsewhere. Hong Kong knows how to wear a mask. Their mask involves a bunch of sewing and additional parts, like elastic ear-straps. This mask is a bit more simple from a sewing standpoint, but requires you to tie a bow knot behind your head. 
+This design is based on the HK Mask, which can be seen at https://diymask.site/ , https://www.facebook.com/masksbyhongkongers/ and elsewhere. Hong Kong knows how to wear a mask. Their mask involves a bunch of sewing and additional parts, like elastic ear-straps. This mask is a bit more simple from a sewing standpoint, but requires you to tie a bow knot behind your head. 
 
 I suggest using a small square of filter material from a furnace filter than can filter out .3 micron particles. Any filter that claims to stop a virus should be about right. A single filter can provide material for many masks. You can insert the filter into the mask pocket and attach the whole thing to your face. I also suggest breathing in through the mouth, so your lips make a seal against the filter. This ensures that any air coming into the lungs passes through the filter.
 
