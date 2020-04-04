@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="1315"
      id="namedview4506"
      showgrid="true"
-     inkscape:zoom="0.41845886"
-     inkscape:cx="-608.18754"
-     inkscape:cy="847.06932"
+     inkscape:zoom="3.3476709"
+     inkscape:cx="595.87728"
+     inkscape:cy="513.97687"
      inkscape:window-x="-13"
      inkscape:window-y="-13"
      inkscape:window-maximized="1"
@@ -82,13 +82,6 @@
      id="path5888-0-8"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccsccccscc" />
-  <ellipse
-     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.20282312;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="path3012"
-     cx="727.58746"
-     cy="525.6167"
-     rx="31.573204"
-     ry="20.750216" />
   <g
      id="g6730">
     <rect
@@ -114,4 +107,11 @@
        d="M 185.38581,1134.1745 V 2.1744279"
        style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.37828711;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
+  <ellipse
+     style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:0.12404042;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path3012"
+     cx="728.52112"
+     cy="526.59277"
+     rx="15.692824"
+     ry="15.614632" />
 </svg>
