@@ -4,7 +4,7 @@ The SVG folder contains images that can be used as a pattern on a laser cutter t
 
 The PDFs folder contains files that can be printed on standard 8.5x11 paper and taped together to make a pattern for the same mask. 
 
-Cut the pattern, then stitch the lower half of the mask to itself to form the contour around the chin. Detailed assembly instructions [here].(/Instructions/Durham%20HK%20Mask%20Assembly%20Instructions.pdf "Instructions")
+Cut the pattern, then stitch the lower half of the mask to itself to form the contour around the chin. Detailed assembly instructions [here](/Instructions/Durham%20HK%20Mask%20Assembly%20Instructions.pdf).
 
 
 Any mask is better than no mask, as you may be asymptomatic and capable of infecting others. The mask also signals to others that you care about their safety and well-being. It may keep you from touching your face. It also shows people that you probably had an extra t-shirt lying around the house. Keep cleaning out that closet - Plenty of quarrantine time left.
