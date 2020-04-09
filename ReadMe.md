@@ -1,6 +1,6 @@
 # DurhamHKMask
 
-The SVG folder contains images that can be used as a pattern on a laser cutter to make a 2-layer mask capable of holding a disposable filter.
+The SVG folder contains images that can be used as a pattern on a laser cutter to make a 2-layer mask capable of holding a disposable filter. Laser cutter video [here](https://photos.app.goo.gl/9RUJFVxMMwdHWe8Z8).
 
 The PDFs folder contains files that can be printed on standard 8.5x11 paper and taped together to make a pattern for the same mask. 
 
